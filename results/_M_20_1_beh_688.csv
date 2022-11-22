@@ -1,0 +1,5 @@
+n,block_type,rt,acc,stimulus,answer,correct_answer
+0,training,,-1,1.png,,3
+1,training,3.274678099900484,1,2.png,3,3
+2,training,2.8581332000903785,0,3.png,5,4
+3,training,,-1,4.png,,3

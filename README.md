@@ -1,2 +1,2 @@
 # LST
-latin square task
+latin square task - badanie Y
